@@ -1,4 +1,4 @@
-<img src="/HEY, I AM KARISHMA.png" alt="banner" height="300"/>
+<img src="/HEY, I AM KARISHMA.png" alt="banner" height="250" width="1980"/>
 <h1 align="center">Hi 👋, I'm KARISHMA</h1>
 <img align="right" src="https://github.com/user-attachments/assets/b4d18839-5a52-4733-93e3-5d6de005037f" alt="side image" height="300" width="300" margin-bottom="20"/>
 <p>A passionate frontend developer and full stack developer</p>
