@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm KARISHMA</h1>
-<img align="right" src="https://github.com/user-attachments/assets/b4d18839-5a52-4733-93e3-5d6de005037f" alt="side image" height="600" width="600"/>
+<img align="right" src="https://github.com/user-attachments/assets/b4d18839-5a52-4733-93e3-5d6de005037f" alt="side image" height="300" width="300" margin-bottom="20"/>
 <p>A passionate frontend developer and full stack developer</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
