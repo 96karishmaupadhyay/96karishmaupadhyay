@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm KARISHMA</h1>
-<img align=""right" src="![LOOKING FOR WORK](https://github.com/user-attachments/assets/bb6b5ed1-ab6a-44c3-a5ed-6116688c0355)
+<img align="right" src="![LOOKING FOR WORK](https://github.com/user-attachments/assets/b4d18839-5a52-4733-93e3-5d6de005037f)
 " alt="side image"/>
 <p>A passionate frontend developer and full stack developer</p>
 <h2>🚀 Languages and Tools I Use</h2>
